@@ -7,6 +7,6 @@ Link to the Raw Data: https://www.kaggle.com/datasets/ahmadseloabadi/shoppe-app-
 1. I extracted data from Kaggle.
 2. I performed the first data preparation step, which involved categorizing the comments in the dataset using Python by training a model so that the comments could be divided into 7 categories. (Note: My model training source code can be found in the “Python Source Code” file.)
 3. I cleaned the data by removing entries that did not match the existing columns and any empty entries.
-4. I performed the second data preparation step, which involved adding positive and negative sentiment based on the score values and categories.
+4. I performed the second data preparation step, which involved adding positive and negative sentiment based on the score values and categories. Here are the link to go to my spreadsheet (https://docs.google.com/spreadsheets/d/1xy4xdc-TUxpbdB7jQNqRwW_XQu_5Q3V7Oe4NTBuziSg/edit?usp=sharing).
 5. I analyzed the data using Looker Studio (now Data Studio).
 6. I created a brief explanation of the data in the file “PPT_Data_Analysis_Shopee_Reviews.pdf”
