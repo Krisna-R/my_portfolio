@@ -1,1 +1,0 @@
-The files in this folder represent every case study I completed to earn the Google Business Intelligence Professional Certificate. Therefore, the data used in the case studies is not real data, but rather case study data.
